@@ -12,7 +12,9 @@ import com.google.gson.JsonSyntaxException;
 import java.util.Map.Entry;
 import java.util.concurrent.ConcurrentHashMap;
 
-
+/*
+ * Test Json
+ */
 class JsonToObject
 {
 	final Gson gson = new Gson();
