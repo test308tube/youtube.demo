@@ -26,6 +26,7 @@ class JsonToObject
 	  
 	 new JsonToObject();
    
+	 System.out.println("hello");
     
   }
   
